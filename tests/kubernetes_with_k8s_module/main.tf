@@ -10,7 +10,6 @@ module "kubernetes" {
 
 variable "ssh" {
   type = string
-  
 }
 
 variable "network_nodes" {
